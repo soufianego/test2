@@ -1,0 +1,11 @@
+{
+	"create-jar": {
+		"output-dir": "dist",
+		"features": {
+			"js-extender": true,
+			"web-context": "/mon_troisieme_projet",
+			"configuration": "features/configuration.json"
+		}
+	},
+	"dump-report": true
+}
